@@ -1,2 +1,59 @@
 #!/bin/bash
 echo "Starting deployment..."
+echo "Running automated tests..."
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+script.sh[+] [unix] (03:29 20/05/2026)                                                                                                                                                                     3,1 All
+-- INSERT --
+
